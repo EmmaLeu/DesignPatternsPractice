@@ -1,8 +1,0 @@
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
-C:\Users\manuela.leu\source\repos\DesignPatternsPractice\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
