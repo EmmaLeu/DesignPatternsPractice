@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.PrototypeFactory
+﻿namespace DesignPatterns.Creational.PrototypeFactory
 {
     /// <summary>
     /// Provides methods for creating prototypes of objects <see cref="IProductA"/> <see cref="IProductB"/> without specifying the concrete class.

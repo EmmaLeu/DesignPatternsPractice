@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatterns.Singleton
+namespace DesignPatterns.Creational.Singleton
 {
     /// <summary>
     /// Thread safe class that returns the same instance of an object

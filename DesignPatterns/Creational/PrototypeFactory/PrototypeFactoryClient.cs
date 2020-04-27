@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.PrototypeFactory
+﻿namespace DesignPatterns.Creational.PrototypeFactory
 {
     /// <summary>
     /// Delegates the creation of objects or families of objects to another class <see cref="PrototypeFactory"/>

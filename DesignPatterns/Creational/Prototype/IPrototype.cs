@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Prototype
+﻿namespace DesignPatterns.Creational.Prototype
 {
     /// <summary>
     /// Interface used to clone a <see cref="IProduct"/>

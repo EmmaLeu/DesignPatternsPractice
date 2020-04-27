@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Prototype
+﻿namespace DesignPatterns.Creational.Prototype
 {
     /// <summary>
     /// Acts as a prototype for creating a copy of itself

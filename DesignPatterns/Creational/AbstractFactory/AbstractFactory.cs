@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.AbstractFactory
+﻿namespace DesignPatterns.Creational.AbstractFactory
 {
     /// <summary>
     /// Provides an interface for creating objects or family of objects without specifying the concrete class.

@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.FactoryMethod
+﻿namespace DesignPatterns.Creational.FactoryMethod
 {
     public class CreatorA : Creator
     {

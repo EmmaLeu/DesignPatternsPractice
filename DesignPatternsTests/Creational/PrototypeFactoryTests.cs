@@ -1,4 +1,4 @@
-﻿using DesignPatterns.PrototypeFactory;
+﻿using DesignPatterns.Creational.PrototypeFactory;
 using NUnit.Framework;
 
 namespace DesignPatternsTests

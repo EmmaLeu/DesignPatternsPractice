@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.FactoryMethod
+﻿namespace DesignPatterns.Creational.FactoryMethod
 {
     /// <summary>
     /// Defines an abstract method for creation of <see cref="IProduct"/>

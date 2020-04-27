@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Builder
+﻿namespace DesignPatterns.Creational.Builder
 {
     /// <summary>
     /// Director delegates the creation of <see cref="ComplexObject"/> to another class <see cref="IBuilder"/>

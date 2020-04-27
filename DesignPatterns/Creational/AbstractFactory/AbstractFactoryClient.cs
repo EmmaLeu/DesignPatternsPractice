@@ -1,9 +1,9 @@
-﻿using DesignPatterns.AbstractFactory;
+﻿using DesignPatterns.Creational.AbstractFactory;
 
 namespace DesignPatterns
 {
     /// <summary>
-    /// Delegates creating ProductA and ProductB objects to factory object <see cref="AbstractFactory.AbstractFactory"/>
+    /// Delegates creating ProductA and ProductB objects to factory object <see cref="AbstractFactory"/>
     /// </summary>
     public class AbstractFactoryClient
     {
@@ -11,9 +11,9 @@ namespace DesignPatterns
 
         private readonly IProductB _productB;
 
-        private readonly AbstractFactory.AbstractFactory _abstractFactory;
+        private readonly AbstractFactory _abstractFactory;
 
-        public AbstractFactoryClient(AbstractFactory.AbstractFactory abstractFactory)
+        public AbstractFactoryClient(AbstractFactory abstractFactory)
         {
             _abstractFactory = abstractFactory;
             _productA = _abstractFactory.CreateProductA();

@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Builder
+﻿namespace DesignPatterns.Creational.Builder
 {
     /// <summary>
     /// Encapsulates the creation and assembling of a <see cref="ComplexObject"/>

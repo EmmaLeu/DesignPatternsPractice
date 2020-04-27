@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Builder
+﻿namespace DesignPatterns.Creational.Builder
 {
     public class Builder : IBuilder
     {

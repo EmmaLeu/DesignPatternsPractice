@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Prototype
+﻿namespace DesignPatterns.Creational.Prototype
 {
     public interface IProduct
     {

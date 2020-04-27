@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Builder;
+﻿using DesignPatterns.Creational.Builder;
 using NUnit.Framework;
 
 namespace DesignPatternsTests
