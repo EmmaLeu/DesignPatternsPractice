@@ -8,11 +8,11 @@ namespace DesignPatternsTests.Structural
         [Test]
         public void Abstraction_DelegatsTo_Implementation()
         {
-            var abstraction = new Abstraction(new Implementation());
+            var abstraction = new Abstraction(new Implementor());
 
             var result = abstraction.Operation();
 
-            Assert.AreEqual(nameof(Implementation), result);
+            Assert.AreEqual(nameof(Implementor), result);
         }
     }
 }
