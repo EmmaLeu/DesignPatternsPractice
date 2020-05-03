@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesignPatterns.Behavioral.Interpreter.Sample1;
+using System;
 
 namespace DesignPatternsPractice
 {
@@ -6,7 +7,9 @@ namespace DesignPatternsPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Interpreter
+            var client = new Client();
+            client.Operation();
         }
     }
 }
