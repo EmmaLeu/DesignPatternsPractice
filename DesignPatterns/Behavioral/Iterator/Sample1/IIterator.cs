@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Behavioral.Iterator
+﻿namespace DesignPatterns.Behavioral.Iterator.Sample1
 {
     /// <summary>
     /// Interface for accessing and iterating over aggregated objects
