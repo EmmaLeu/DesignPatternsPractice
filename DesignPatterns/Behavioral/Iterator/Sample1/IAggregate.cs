@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Structural.Iterator.Sample1
+﻿namespace DesignPatterns.Behavioral.Iterator.Sample1
 {
     /// <summary>
     /// Interface for creating an <see cref="IIterator{T}"/>

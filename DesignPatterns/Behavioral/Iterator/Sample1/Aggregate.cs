@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatterns.Structural.Iterator.Sample1
+namespace DesignPatterns.Behavioral.Iterator.Sample1
 {
     /// <summary>
     /// Implement CreateIterator() by returning an instance of the corresponding iterator class 

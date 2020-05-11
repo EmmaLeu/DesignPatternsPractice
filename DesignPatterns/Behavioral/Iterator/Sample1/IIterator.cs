@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Structural.Iterator
+﻿namespace DesignPatterns.Behavioral.Iterator
 {
     /// <summary>
     /// Interface for accessing and iterating over aggregated objects

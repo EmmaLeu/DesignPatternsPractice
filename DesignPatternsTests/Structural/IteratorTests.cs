@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Structural.Iterator.Sample1;
+﻿using DesignPatterns.Behavioral.Iterator.Sample1;
 using NUnit.Framework;
 
 namespace DesignPatternsTests.Structural
