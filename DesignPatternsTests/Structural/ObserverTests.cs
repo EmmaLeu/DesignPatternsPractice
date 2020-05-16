@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.Behavioral.Observer.Sample1;
+using DesignPatterns.Behavioral.Observer.Sample3;
 using NUnit.Framework;
 
 namespace DesignPatternsTests.Structural
@@ -16,6 +17,22 @@ namespace DesignPatternsTests.Structural
 
             Assert.AreEqual(2, observer1.State);
             Assert.AreEqual(2, observer2.State);
+
+            subject.Detach(observer1);
+            subject.Detach(observer2);
+        }
+
+        [Test]
+        public void Sample3_ObserversAreNotified_OnObservableUpdate()
+        {
+            var observer = new Observer();
+            var observable = new Observable();
+
+            observable.SomethingHappened += observer.Update;
+
+            observable.Notify();
+
+            observable.SomethingHappened -= observer.Update;
         }
     }
 }
