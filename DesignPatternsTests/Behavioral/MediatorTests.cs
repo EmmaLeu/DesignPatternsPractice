@@ -2,7 +2,7 @@
 using Moq;
 using NUnit.Framework;
 
-namespace DesignPatternsTests.Structural
+namespace DesignPatternsTests.Behavioral
 {
     public class MediatorTests
     {

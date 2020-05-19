@@ -2,7 +2,7 @@
 using DesignPatterns.Behavioral.Observer.Sample3;
 using NUnit.Framework;
 
-namespace DesignPatternsTests.Structural
+namespace DesignPatternsTests.Behavioral
 {
     public class ObserverTests
     {

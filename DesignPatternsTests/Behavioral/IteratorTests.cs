@@ -1,7 +1,7 @@
 ﻿using DesignPatterns.Behavioral.Iterator.Sample1;
 using NUnit.Framework;
 
-namespace DesignPatternsTests.Structural
+namespace DesignPatternsTests.Behavioral
 {
     public class IteratorTests
     {
