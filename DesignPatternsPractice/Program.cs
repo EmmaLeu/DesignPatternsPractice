@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.Behavioral.Memento;
+using DesignPatterns.Behavioral.Visitor;
 using System;
 using Sample1 = DesignPatterns.Behavioral.Interpreter.Sample1;
 using Sample2 = DesignPatterns.Behavioral.Interpreter.Sample2;
@@ -21,6 +22,10 @@ namespace DesignPatternsPractice
             //Memento
             var caretaker = new Caretaker();
             caretaker.Test();
+
+            Console.WriteLine("\n***Visitor***\n");
+            var visitorClient = new Client(new Visitor());
+            visitorClient.Operation();
         }
     }
 }
